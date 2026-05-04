@@ -321,7 +321,7 @@ document.addEventListener("DOMContentLoaded", () => {
             return;
         }
 
-        const numeroWhatsApp = "5586999211027";
+        const numeroWhatsApp = "5534997300414";
         
         const itensPedido = carrinho
             .map(item => `  - ${item.quantidade}x ${item.nome} (${formatarMoeda(item.preco)} cada)`)
